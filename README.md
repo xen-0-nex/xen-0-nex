@@ -15,9 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! 👋
-- 🔭 I’m currently working on: Prison Management System in C++
-- 🌱 I’m learning: Cross-platform CLI development, JSON handling, ncurses
-- 💬 Ask me about: C++, Linux CLI tools, and GitHub
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love optimizing legacy console apps
+# 👋 Hey there, I'm Xenon!
+
+I'm an aspiring **C++** and **Web Developer** who loves building real-world tools from the ground up.
+
+---
+
+### 🚀 What I'm Working On
+- 🔧 A **Prison Management System CLI** using C++ and JSON
+- 🧱 Learning web dev (HTML, CSS, JavaScript)
+
+---
+
+### 🛠️ Tech Stack
+- **Languages**: C++, JavaScript, HTML, CSS
+- **Tools**: Git, GitHub, Linux, VS Code, CMake
+- **Learning**: JavaScript, C++, Algorithms, Data-Structures
+
+---
+
+### 📈 GitHub Stats
+![Xenon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xen-0-nex&show_icons=true&theme=radical)
+
+---
+<!--
+### 📫 Connect With Me
+- Email: `your-email@example.com`
+- LinkedIn: [Coming soon]
+- Portfolio: [Work in progress]
+
+---
+-->
+### ⚡ Fun Fact
+I love turning complex ideas into simple command-line interfaces 🚀
