@@ -35,7 +35,8 @@ I'm an aspiring **C++** and **Web Developer** who loves building real-world tool
 ---
 
 ### 📈 GitHub Stats
-![Xenon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xen-0-nex&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xen-0-nex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xen-0-nex&layout=compact&theme=radical)
 
 ---
 <!--
