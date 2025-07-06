@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **xen-0-nex/xen-0-nex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! 👋
+- 🔭 I’m currently working on: Prison Management System in C++
+- 🌱 I’m learning: Cross-platform CLI development, JSON handling, ncurses
+- 💬 Ask me about: C++, Linux CLI tools, and GitHub
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love optimizing legacy console apps
